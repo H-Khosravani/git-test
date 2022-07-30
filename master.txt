@@ -4,7 +4,3 @@ feature 3
 feature 4
 
 function 1  {}
-
-function 2 {}
-
-function 3 {}
